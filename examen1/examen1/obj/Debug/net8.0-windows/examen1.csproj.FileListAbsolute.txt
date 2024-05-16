@@ -1,0 +1,16 @@
+C:\Users\nnnnn\source\repos\examen1\examen1\bin\Debug\net8.0-windows\examen1.exe
+C:\Users\nnnnn\source\repos\examen1\examen1\bin\Debug\net8.0-windows\examen1.deps.json
+C:\Users\nnnnn\source\repos\examen1\examen1\bin\Debug\net8.0-windows\examen1.runtimeconfig.json
+C:\Users\nnnnn\source\repos\examen1\examen1\bin\Debug\net8.0-windows\examen1.dll
+C:\Users\nnnnn\source\repos\examen1\examen1\bin\Debug\net8.0-windows\examen1.pdb
+C:\Users\nnnnn\source\repos\examen1\examen1\obj\Debug\net8.0-windows\examen1.Form1.resources
+C:\Users\nnnnn\source\repos\examen1\examen1\obj\Debug\net8.0-windows\examen1.csproj.GenerateResource.cache
+C:\Users\nnnnn\source\repos\examen1\examen1\obj\Debug\net8.0-windows\examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnnnn\source\repos\examen1\examen1\obj\Debug\net8.0-windows\examen1.AssemblyInfoInputs.cache
+C:\Users\nnnnn\source\repos\examen1\examen1\obj\Debug\net8.0-windows\examen1.AssemblyInfo.cs
+C:\Users\nnnnn\source\repos\examen1\examen1\obj\Debug\net8.0-windows\examen1.csproj.CoreCompileInputs.cache
+C:\Users\nnnnn\source\repos\examen1\examen1\obj\Debug\net8.0-windows\examen1.dll
+C:\Users\nnnnn\source\repos\examen1\examen1\obj\Debug\net8.0-windows\refint\examen1.dll
+C:\Users\nnnnn\source\repos\examen1\examen1\obj\Debug\net8.0-windows\examen1.pdb
+C:\Users\nnnnn\source\repos\examen1\examen1\obj\Debug\net8.0-windows\examen1.genruntimeconfig.cache
+C:\Users\nnnnn\source\repos\examen1\examen1\obj\Debug\net8.0-windows\ref\examen1.dll
